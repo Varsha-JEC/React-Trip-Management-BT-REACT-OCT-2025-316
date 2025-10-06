@@ -77,9 +77,13 @@ Animated Buttons & Cards – Smooth hover effects and transitions
 
 ## 📸 Screenshots
 
-### 🏠 Dashboard Page
-![Dashboard Screenshot](./screenshots/dashboard.png)
+### 🏠 Trip-manager-ui Page
+![Dashboard Screenshot](./screenshots/TRIP-MANAGER-UI.png)
 
-### ➕ Add Trip Page
-![Add Trip Screenshot](./screenshots/add-trip.png)
+### ➕ Add New Trip Page
+![Add Trip Screenshot](./screenshots/ADD NEW TRIP.png)
+
+### ➕ Edit Trip Page
+![Add Trip Screenshot](./screenshots/EDIT TRIP.png)
+
 
