@@ -75,7 +75,11 @@ Responsive Design – Works smoothly on mobile, tablet, and desktop
 
 Animated Buttons & Cards – Smooth hover effects and transitions
 
-**Screenshots**
-<img width="956" height="446" alt="TRIP-MANAGER-UI-5" src="https://github.com/user-attachments/assets/a7da7d17-afa0-4bf4-b040-b4849250584a" />
-<img width="944" height="446" alt="ADD NEW TRIP UI-4" src="https://github.com/user-attachments/assets/fd627e05-edc0-44a9-bc82-c6f7a7e987dd" />
+## 📸 Screenshots
+
+### 🏠 Dashboard Page
+![Dashboard Screenshot](./screenshots/dashboard.png)
+
+### ➕ Add Trip Page
+![Add Trip Screenshot](./screenshots/add-trip.png)
 
